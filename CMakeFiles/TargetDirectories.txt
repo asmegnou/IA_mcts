@@ -1,6 +1,0 @@
-/Users/assiamegnounif/Downloads/MCTS/CMakeFiles/Arene_light.dir
-/Users/assiamegnounif/Downloads/MCTS/CMakeFiles/edit_cache.dir
-/Users/assiamegnounif/Downloads/MCTS/CMakeFiles/rebuild_cache.dir
-/Users/assiamegnounif/Downloads/MCTS/joueurs/CMakeFiles/joueurs.dir
-/Users/assiamegnounif/Downloads/MCTS/joueurs/CMakeFiles/edit_cache.dir
-/Users/assiamegnounif/Downloads/MCTS/joueurs/CMakeFiles/rebuild_cache.dir
